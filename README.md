@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/creamerr8/reading-notes201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website is going to containe my notes from class readings from the _John Duckett HTML & CSS as well as JavaScript & jQuery_ for code 201. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/creamerr8/reading-notes201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### **Table of Contents** 
+1. Introdcutory
+2. HTML Text, CSS intro, and JavaScript instructions
+3. HTML lists, CSS boxes, JS controlflow
+4. HTML links, CSS layout, JS functions
+5. HTML images, CSS color and text 
+6. JS object literals; The DOM
+7. HTML tables, JS constructor functions
+8. More CSS layout
+9. Forms and events
+10. JS debugging
+11. Assorted Topics
+12. Docs for the HTML <canvas> elemnt&chart.js
+13. Local Storage
+14. CSS transforms, transitions, and animations
+15. What Google learned about teams
