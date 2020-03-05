@@ -17,6 +17,24 @@ This website is going to containe my notes from class readings from the _John Du
   - when using ems the size of the box is based on the size of the text within it 
   - you cant use percentages to control border width
   - to center content you can set the left and right margins to auto
+  - if else statements let you set two codes one for true and one for fales
+  - switch statements have a switch value and a case and in the case there is code that will run if the variable matched the value
+  - if you use a data tyoe js did not expect it will try to make sense of the operation instead of sending an error
+  - falsy ex.
+      -var highscore = false;
+      -var highschore = 0;
+      -var highschore = ' '
+      -var highschore = 10/'score
+      -var highschore;
+  - truthy ex. 
+       -var highschore = true;
+       -var highschore = 1;
+       -var highschore = 'carrot';
+       -var highschore = 10/5;
+       -var highschore = 'true';
+       -var highschore = '0';
+       -var highschore = 'fales';
+  
 
 ### **Table of Contents** 
 1. Introdcutory
