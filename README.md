@@ -59,8 +59,27 @@ This website is going to containe my notes from class readings from the _John Du
   - liquid layouts stretch and contract as the user increases or decreasses the browser size
   - functions consist of a seris of statements that have been grouped together because the preform and certain task
   - browser come with a set of built in objects 
-  - 
   
+  ### 4. 
+  - images should be relevent, conay info, be recognizable, fit the color pallet
+  - you should keep images in a seperate folder
+  - use img tag
+  - src tells browser where to find the image
+  - alt provides text description of img
+  -use title attribute to give more info about image
+  - you can set eh height and width of an image
+  - images should be placed, before a pp, in the start of a pp, or in the midlle of a pp
+  - align is used to indicate how other parts of the page should flow around an image
+  - you can specify color the color of text in css
+  - you can specify the color in 3 ways
+    - rgb values
+    -hex codes
+    - color names
+  - every color on a computer screen is created by mixing red, green, and blue
+  - when pciking foreground and background color it is important to be sure there is enough contrast to make sure text is visable
+  - rgba lets you pick colors like the rgb value would but also lets you set opacity
+  - hs1 lets you specify colors using hue, saturation, and lightness
+  -
 
 ### **Table of Contents** 
 1. Introdcutory
