@@ -79,8 +79,32 @@ This website is going to containe my notes from class readings from the _John Du
   - when pciking foreground and background color it is important to be sure there is enough contrast to make sure text is visable
   - rgba lets you pick colors like the rgb value would but also lets you set opacity
   - hs1 lets you specify colors using hue, saturation, and lightness
-  -
-
+  
+  ### 5.
+  
+  ### 6.
+  
+  ### 7. HTML tables, JS constructor functions
+  - represents info in a grid format
+  - grids allow us to understand data by referancing info on two axis
+  - each block ina grid is refered to as a cell
+  - <table> element is used to create a table
+  - heading sits inside <thead>
+  - body sits in <tbody>
+  - footer sitsin in <tfoot>
+  - object cinstructors can use a function as a template
+  - you create instances of the object using the cinstructor function
+  - you can add new properties and an object
+  - keyword is commonly used inside functions and objects
+  - data is represented using value/pairs
+  - if you want to access items via a propety name or key use an object
+  - arrays are a special type of object
+  - you can combine arrays and objects to create complex data structures
+  - the math object has properties and methods for mathimatical constants and functions
+  - in order to work with dates you create an instance of the date object
+ 
+  
+  
 ### **Table of Contents** 
 1. Introdcutory
 2. HTML Text, CSS intro, and JavaScript instructions
